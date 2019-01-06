@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mega Minder</string>
+    <string name="title_activity_logic">LogicActivity</string>
+    <string name="title_activity_el">ELActivity</string>
+</resources>
